@@ -19,9 +19,9 @@ C:\WINDOWS\system32\drivers\etc
 
 #
 >  ###  `Macos Shielding mode`
-> 1. Open  "terminal" application program。Open  "application program"，then "Utilities"，Last Open "terminal"
+> 1. Open  "application program"，then "Utilities"，Last Open "terminal"
 > 
-> 2. Open hosts file，Enter the following command，Then press <kbd>Enter</kbd> ：In the Lord "terminal" Edit in window "hosts" file
+> 2. Open "hosts" file，Enter the following command，Then press <kbd>Enter</kbd> ：In the Lord "terminal" Edit in window "hosts" file
 ```javascript
 sudo nano -e /etc/hosts
 ```
@@ -30,7 +30,7 @@ sudo nano -e /etc/hosts
 > 4. Press <kbd>ctrl</kbd> + <kbd>O</kbd> preservation，Then press <kbd>ctrl</kbd> + <kbd>X</kbd> Close File
 #
 > ## `matters needing attention`
-> * Don't take it "http://"。For example, if you want to block "google" , this line should be
+> * Don't take it "http://", For example, if you want to block "google" , this line should be
 ```javascript
 127.0.0.1 www.google.com
 ```
