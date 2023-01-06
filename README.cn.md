@@ -19,9 +19,9 @@ C:\WINDOWS\system32\drivers\etc
 
 #
 >  ###  `Macos 屏蔽方式`
-> 1. 打开 "终端" 应用程序。打开 "应用程序"，然后 "实用工具"，最后打开 "终端"
+> 1. 打开 "应用程序"，然后 "实用工具"，最后打开 "终端"
 > 
-> 2. 打开hosts文件，输入以下命令，然后按 <kbd>Enter</kbd> ：在主 "终端" 窗口中编辑 "hosts" 文件
+> 2. 打开 "hosts" 文件，输入以下命令，然后按 <kbd>Enter</kbd> ：在主 "终端" 窗口中编辑 "hosts" 文件
 ```javascript
 sudo nano -e /etc/hosts
 ```
@@ -30,9 +30,9 @@ sudo nano -e /etc/hosts
 > 4. 按 <kbd>ctrl</kbd> + <kbd>O</kbd> 保存，然后按 <kbd>ctrl</kbd> + <kbd>X</kbd> 关闭文件
 #
 > ## `注意事项`
-> * 不要带上 "http://"。例如，如果你想屏蔽对 "baidu" 的访问，这一行应该是
+> * 不要带上 "http://"，例如，如果你想屏蔽对 "google" 的访问，这一行应该是
 ```javascript
-127.0.0.1 www.baidu.com
+127.0.0.1 www.google.com
 ```
 > * "Hosts" 文件只检查你输入的绝对ULR，例如: "google.com" 不要复制粘贴其他文档，这样可能会引入不可见字符，从而影响文本发挥作用
 > 
