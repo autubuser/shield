@@ -1,6 +1,6 @@
 # Tutorial of designated website for PC shielding
 #
->  * Chinese | 简体中文 [Chinese | 简体中文](https://github.com/autubuser/shield/blob/main/README.cn.md)
+>  * [Chinese | 简体中文](https://github.com/autubuser/shield/blob/main/README.cn.md)
 #
 
 ## `Why block malicious websites?`
