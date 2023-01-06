@@ -1,4 +1,7 @@
 # Tutorial of designated website for PC shielding
+#
+>  * Chinese | 简体中文[Chinese | 简体中文](https://github.com/autubuser/shield/blob/main/README.cn.md)
+#
 
 ## `Why block malicious websites?`
 >  * Nowadays, computers are very popular in homes and offices. You can browse all kinds of websites on the Internet, including many excellent websites, but there are not many websites that are safe for computers or affect physical and mental health. Therefore, we need to block some malicious advertising websites or parents need to block some bad information websites or game websites for the healthy growth of children
